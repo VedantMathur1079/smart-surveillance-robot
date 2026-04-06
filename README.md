@@ -46,11 +46,6 @@ This project combines **embedded systems, IoT, and robotics** to create a smart 
 
 ---
 
-## 📸 Project Images
-![Robot](images/robot.jpg)
-
----
-
 ## 📄 Diagrams
 ### Block Diagram
 ![Block Diagram](docs/block_diagram.png)
