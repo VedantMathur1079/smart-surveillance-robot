@@ -46,6 +46,16 @@ This project combines **embedded systems, IoT, and robotics** to create a smart 
 
 ---
 
+## 🧠 Project Visualization
+
+This project was designed and implemented using a combination of IoT sensors and embedded systems.
+
+The system integrates multiple modules, including motion detection, obstacle detection, and gas sensing, to simulate a real-world surveillance robot.
+
+Note: Physical prototype images will be added in future updates.
+
+---
+
 ## 📄 Diagrams
 ### Block Diagram
 ![Block Diagram](docs/block_diagram.png)
@@ -77,3 +87,12 @@ This project combines **embedded systems, IoT, and robotics** to create a smart 
 - AI-based object detection
 - Cloud integration
 - Telegram alerts
+
+---
+
+## 📚 What I Learned
+
+- Working with IoT sensors and embedded systems  
+- Interfacing Arduino with L298N motor driver  
+- Basics of ESP32-CAM and WiFi-based streaming  
+- Designing multi-sensor surveillance systems  
